@@ -1,0 +1,970 @@
+{
+  "cards": [
+    {
+      "id": "irritant",
+      "front": "irritant",
+      "back": "раздражитель",
+      "pronunciation": "/ˈɪrɪtənt/",
+      "kind": "word",
+      "examples": [
+        "The smoke was a serious irritant to my eyes."
+      ],
+      "tags": [
+        "health",
+        "nouns"
+      ]
+    },
+    {
+      "id": "beat",
+      "front": "beat",
+      "back": "ударить; бить",
+      "pronunciation": "/biːt/",
+      "kind": "word",
+      "examples": [
+        "He beat the drum loudly."
+      ],
+      "tags": [
+        "actions",
+        "verbs"
+      ]
+    },
+    {
+      "id": "competition",
+      "front": "competition",
+      "back": "соревнование; конкуренция",
+      "pronunciation": "/ˌkɒmpəˈtɪʃən/",
+      "kind": "word",
+      "examples": [
+        "She won the swimming competition."
+      ],
+      "tags": [
+        "sports",
+        "nouns"
+      ]
+    },
+    {
+      "id": "defeat",
+      "front": "defeat",
+      "back": "поражение; побеждать",
+      "pronunciation": "/dɪˈfiːt/",
+      "kind": "word",
+      "examples": [
+        "Our team defeated its strongest rival."
+      ],
+      "tags": [
+        "sports",
+        "verbs"
+      ]
+    },
+    {
+      "id": "entertaining",
+      "front": "entertaining",
+      "back": "развлекательный; занимательный",
+      "pronunciation": "/ˌentəˈteɪnɪŋ/",
+      "kind": "word",
+      "examples": [
+        "The film was very entertaining."
+      ],
+      "tags": [
+        "entertainment",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "pleasure",
+      "front": "pleasure",
+      "back": "удовольствие",
+      "pronunciation": "/ˈpleʒə/",
+      "kind": "word",
+      "examples": [
+        "It was a pleasure to meet you."
+      ],
+      "tags": [
+        "feelings",
+        "nouns"
+      ]
+    },
+    {
+      "id": "carry-on",
+      "front": "carry on",
+      "back": "продолжить",
+      "pronunciation": "/ˈkæri ɒn/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Please carry on with your work."
+      ],
+      "tags": [
+        "actions",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "eat-out",
+      "front": "eat out",
+      "back": "есть вне дома",
+      "pronunciation": "/iːt aʊt/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "We usually eat out on Fridays."
+      ],
+      "tags": [
+        "food",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "give-up",
+      "front": "give up",
+      "back": "бросить; отказаться от привычки",
+      "pronunciation": "/ɡɪv ʌp/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "He gave up smoking last year."
+      ],
+      "tags": [
+        "habits",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "join-in",
+      "front": "join in",
+      "back": "присоединиться",
+      "pronunciation": "/dʒɔɪn ɪn/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Come and join in the game."
+      ],
+      "tags": [
+        "social",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "send-off",
+      "front": "send off",
+      "back": "удалить с игры; отправить",
+      "pronunciation": "/send ɒf/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "The referee sent him off in the second half."
+      ],
+      "tags": [
+        "sports",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "take-up",
+      "front": "take up",
+      "back": "начать заниматься чем-то новым",
+      "pronunciation": "/teɪk ʌp/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "She took up tennis this summer."
+      ],
+      "tags": [
+        "hobbies",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "turn-down",
+      "front": "turn down",
+      "back": "сделать тише; отклонить",
+      "pronunciation": "/tɜːn daʊn/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Please turn down the music."
+      ],
+      "tags": [
+        "everyday",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "turn-up",
+      "front": "turn up",
+      "back": "сделать громче; усилить",
+      "pronunciation": "/tɜːn ʌp/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Can you turn up the radio?"
+      ],
+      "tags": [
+        "everyday",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "on-stage",
+      "front": "on stage",
+      "back": "на сцене",
+      "pronunciation": "/ɒn steɪdʒ/",
+      "kind": "word",
+      "examples": [
+        "The band performed on stage."
+      ],
+      "tags": [
+        "entertainment",
+        "phrases"
+      ]
+    },
+    {
+      "id": "athlete",
+      "front": "athlete",
+      "back": "спортсмен; атлет",
+      "pronunciation": "/ˈæθliːt/",
+      "kind": "word",
+      "examples": [
+        "The athlete trained every morning."
+      ],
+      "tags": [
+        "sports",
+        "people"
+      ]
+    },
+    {
+      "id": "athletic",
+      "front": "athletic",
+      "back": "спортивный; атлетичный",
+      "pronunciation": "/æθˈletɪk/",
+      "kind": "word",
+      "examples": [
+        "He has a strong, athletic body."
+      ],
+      "tags": [
+        "sports",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "athletics",
+      "front": "athletics",
+      "back": "лёгкая атлетика",
+      "pronunciation": "/æθˈletɪks/",
+      "kind": "word",
+      "examples": [
+        "She competed in athletics at school."
+      ],
+      "tags": [
+        "sports",
+        "nouns"
+      ]
+    },
+    {
+      "id": "childhood",
+      "front": "childhood",
+      "back": "детство",
+      "pronunciation": "/ˈtʃaɪldhʊd/",
+      "kind": "word",
+      "examples": [
+        "I remember my childhood fondly."
+      ],
+      "tags": [
+        "life",
+        "nouns"
+      ]
+    },
+    {
+      "id": "entertain",
+      "front": "entertain",
+      "back": "развлекать",
+      "pronunciation": "/ˌentəˈteɪn/",
+      "kind": "word",
+      "examples": [
+        "The magician entertained the children."
+      ],
+      "tags": [
+        "entertainment",
+        "verbs"
+      ]
+    },
+    {
+      "id": "entertainment",
+      "front": "entertainment",
+      "back": "развлечение",
+      "pronunciation": "/ˌentəˈteɪnmənt/",
+      "kind": "word",
+      "examples": [
+        "The city offers plenty of entertainment."
+      ],
+      "tags": [
+        "entertainment",
+        "nouns"
+      ]
+    },
+    {
+      "id": "musician",
+      "front": "musician",
+      "back": "музыкант (мью́зишн)",
+      "pronunciation": "/mjuˈzɪʃən/",
+      "kind": "word",
+      "examples": [
+        "Her brother is a talented musician."
+      ],
+      "tags": [
+        "music",
+        "people"
+      ]
+    },
+    {
+      "id": "bored-with",
+      "front": "bored with",
+      "back": "скучающий от чего-либо",
+      "pronunciation": "/bɔːd wɪð/",
+      "kind": "word",
+      "examples": [
+        "I am bored with watching the same show."
+      ],
+      "tags": [
+        "feelings",
+        "phrases"
+      ]
+    },
+    {
+      "id": "crazy-about",
+      "front": "crazy about",
+      "back": "сходить с ума по; очень любить",
+      "pronunciation": "/ˈkreɪzi əˈbaʊt/",
+      "kind": "word",
+      "examples": [
+        "She is crazy about classical music."
+      ],
+      "tags": [
+        "feelings",
+        "phrases"
+      ]
+    },
+    {
+      "id": "good-at-bad-at",
+      "front": "good at / bad at",
+      "back": "хорош в чём-либо / плох в чём-либо",
+      "pronunciation": "/ɡʊd æt / bæd æt/",
+      "kind": "word",
+      "examples": [
+        "I am good at maths but bad at drawing."
+      ],
+      "tags": [
+        "abilities",
+        "phrases"
+      ]
+    },
+    {
+      "id": "keen-on",
+      "front": "keen on",
+      "back": "увлекаться чем-либо",
+      "pronunciation": "/kiːn ɒn/",
+      "kind": "word",
+      "examples": [
+        "He is keen on photography."
+      ],
+      "tags": [
+        "interests",
+        "phrases"
+      ]
+    },
+    {
+      "id": "popular-with",
+      "front": "popular with",
+      "back": "популярный среди кого-либо",
+      "pronunciation": "/ˈpɒpjʊlə wɪð/",
+      "kind": "word",
+      "examples": [
+        "This singer is popular with teenagers."
+      ],
+      "tags": [
+        "people",
+        "phrases"
+      ]
+    },
+    {
+      "id": "feel-like",
+      "front": "feel like",
+      "back": "хотеть; быть в настроении сделать что-либо",
+      "pronunciation": "/fiːl laɪk/",
+      "kind": "word",
+      "examples": [
+        "I feel like going for a walk."
+      ],
+      "tags": [
+        "feelings",
+        "phrases"
+      ]
+    },
+    {
+      "id": "take-part-in",
+      "front": "take part in",
+      "back": "участвовать",
+      "pronunciation": "/teɪk pɑːt ɪn/",
+      "kind": "word",
+      "examples": [
+        "Many students took part in the contest."
+      ],
+      "tags": [
+        "activities",
+        "phrases"
+      ]
+    },
+    {
+      "id": "book-by-someone-about",
+      "front": "a book by someone about",
+      "back": "книга, написанная кем-либо о чём-либо",
+      "pronunciation": "/ə bʊk baɪ ˈsʌmwʌn əˈbaʊt/",
+      "kind": "word",
+      "examples": [
+        "I read a book by Orwell about power."
+      ],
+      "tags": [
+        "books",
+        "phrases"
+      ]
+    },
+    {
+      "id": "fan-of",
+      "front": "a fan of",
+      "back": "фанат чего-либо или кого-либо",
+      "pronunciation": "/ə fæn əv/",
+      "kind": "word",
+      "examples": [
+        "I am a big fan of this band."
+      ],
+      "tags": [
+        "interests",
+        "phrases"
+      ]
+    },
+    {
+      "id": "game-against",
+      "front": "a game against",
+      "back": "игра против кого-либо",
+      "pronunciation": "/ə ɡeɪm əˈɡenst/",
+      "kind": "word",
+      "examples": [
+        "We have a game against Spain tomorrow."
+      ],
+      "tags": [
+        "sports",
+        "phrases"
+      ]
+    },
+    {
+      "id": "clever",
+      "front": "clever",
+      "back": "умный; сообразительный",
+      "pronunciation": "/ˈklevə/",
+      "kind": "word",
+      "examples": [
+        "That was a clever solution."
+      ],
+      "tags": [
+        "personality",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "consider",
+      "front": "consider",
+      "back": "считать; рассматривать; учитывать",
+      "pronunciation": "/kənˈsɪdə/",
+      "kind": "word",
+      "examples": [
+        "We are considering several options."
+      ],
+      "tags": [
+        "thinking",
+        "verbs"
+      ]
+    },
+    {
+      "id": "degree",
+      "front": "degree",
+      "back": "степень; уровень",
+      "pronunciation": "/dɪˈɡriː/",
+      "kind": "word",
+      "examples": [
+        "She has a degree in biology."
+      ],
+      "tags": [
+        "education",
+        "nouns"
+      ]
+    },
+    {
+      "id": "guess",
+      "front": "guess",
+      "back": "угадать; догадка",
+      "pronunciation": "/ɡes/",
+      "kind": "word",
+      "examples": [
+        "Can you guess the answer?"
+      ],
+      "tags": [
+        "thinking",
+        "verbs"
+      ]
+    },
+    {
+      "id": "hesitate",
+      "front": "hesitate",
+      "back": "сомневаться; колебаться",
+      "pronunciation": "/ˈhezɪteɪt/",
+      "kind": "word",
+      "examples": [
+        "Do not hesitate to ask for help."
+      ],
+      "tags": [
+        "communication",
+        "verbs"
+      ]
+    },
+    {
+      "id": "make-sure",
+      "front": "make sure",
+      "back": "удостовериться; убедиться",
+      "pronunciation": "/meɪk ʃɔː/",
+      "kind": "word",
+      "examples": [
+        "Make sure you lock the door."
+      ],
+      "tags": [
+        "everyday",
+        "phrases"
+      ]
+    },
+    {
+      "id": "mental",
+      "front": "mental",
+      "back": "умственный; психический",
+      "pronunciation": "/ˈmentəl/",
+      "kind": "word",
+      "examples": [
+        "Reading is good mental exercise."
+      ],
+      "tags": [
+        "health",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "remind",
+      "front": "remind",
+      "back": "напомнить",
+      "pronunciation": "/rɪˈmaɪnd/",
+      "kind": "word",
+      "examples": [
+        "Please remind me to call her."
+      ],
+      "tags": [
+        "communication",
+        "verbs"
+      ]
+    },
+    {
+      "id": "revise",
+      "front": "revise",
+      "back": "пересматривать; повторять материал",
+      "pronunciation": "/rɪˈvaɪz/",
+      "kind": "word",
+      "examples": [
+        "I need to revise for my exam."
+      ],
+      "tags": [
+        "education",
+        "verbs"
+      ]
+    },
+    {
+      "id": "term",
+      "front": "term",
+      "back": "срок; семестр; термин",
+      "pronunciation": "/tɜːm/",
+      "kind": "word",
+      "examples": [
+        "The school term starts in September."
+      ],
+      "tags": [
+        "education",
+        "nouns"
+      ]
+    },
+    {
+      "id": "wonder",
+      "front": "wonder",
+      "back": "интересоваться; удивляться; бродить",
+      "pronunciation": "/ˈwʌndə/",
+      "kind": "word",
+      "examples": [
+        "I wonder where she is."
+      ],
+      "tags": [
+        "thinking",
+        "verbs"
+      ]
+    },
+    {
+      "id": "cross-out",
+      "front": "cross out",
+      "back": "вычеркнуть",
+      "pronunciation": "/krɒs aʊt/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Cross out the wrong answer."
+      ],
+      "tags": [
+        "writing",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "look-up",
+      "front": "look up",
+      "back": "искать информацию; смотреть в словаре",
+      "pronunciation": "/lʊk ʌp/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Look up the word in a dictionary."
+      ],
+      "tags": [
+        "education",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "point-out",
+      "front": "point out",
+      "back": "указать; обратить внимание",
+      "pronunciation": "/pɔɪnt aʊt/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "She pointed out a mistake in the report."
+      ],
+      "tags": [
+        "communication",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "read-out",
+      "front": "read out",
+      "back": "прочитать вслух",
+      "pronunciation": "/riːd aʊt/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "He read out the names of the winners."
+      ],
+      "tags": [
+        "communication",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "rip-up",
+      "front": "rip up",
+      "back": "разорвать на кусочки",
+      "pronunciation": "/rɪp ʌp/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "She ripped up the old letter."
+      ],
+      "tags": [
+        "actions",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "rub-out",
+      "front": "rub out",
+      "back": "стереть ластиком",
+      "pronunciation": "/rʌb aʊt/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Rub out the pencil mark."
+      ],
+      "tags": [
+        "writing",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "turn-over",
+      "front": "turn over",
+      "back": "перевернуть",
+      "pronunciation": "/tɜːn ˈəʊvə/",
+      "kind": "phrasal_verb",
+      "examples": [
+        "Turn over the page, please."
+      ],
+      "tags": [
+        "actions",
+        "phrasal-verbs"
+      ]
+    },
+    {
+      "id": "for-instance",
+      "front": "for instance",
+      "back": "например",
+      "pronunciation": "/fər ˈɪnstəns/",
+      "kind": "word",
+      "examples": [
+        "Some sports, for instance tennis, are played outdoors."
+      ],
+      "tags": [
+        "writing",
+        "linking-words"
+      ]
+    },
+    {
+      "id": "in-conclusion",
+      "front": "in conclusion",
+      "back": "в заключение",
+      "pronunciation": "/ɪn kənˈkluːʒən/",
+      "kind": "word",
+      "examples": [
+        "In conclusion, the plan is practical."
+      ],
+      "tags": [
+        "writing",
+        "linking-words"
+      ]
+    },
+    {
+      "id": "in-favour-of",
+      "front": "in favour of",
+      "back": "в пользу; за",
+      "pronunciation": "/ɪn ˈfeɪvər əv/",
+      "kind": "word",
+      "examples": [
+        "Most members voted in favour of the proposal."
+      ],
+      "tags": [
+        "opinion",
+        "phrases"
+      ]
+    },
+    {
+      "id": "brave",
+      "front": "brave",
+      "back": "смелый",
+      "pronunciation": "/breɪv/",
+      "kind": "word",
+      "examples": [
+        "The brave firefighter saved the child."
+      ],
+      "tags": [
+        "personality",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "bravery",
+      "front": "bravery",
+      "back": "смелость",
+      "pronunciation": "/ˈbreɪvəri/",
+      "kind": "word",
+      "examples": [
+        "Her bravery impressed everyone."
+      ],
+      "tags": [
+        "personality",
+        "nouns"
+      ]
+    },
+    {
+      "id": "divide",
+      "front": "divide",
+      "back": "отделить; разделить",
+      "pronunciation": "/dɪˈvaɪd/",
+      "kind": "word",
+      "examples": [
+        "Divide the cake into six pieces."
+      ],
+      "tags": [
+        "actions",
+        "verbs"
+      ]
+    },
+    {
+      "id": "division",
+      "front": "division",
+      "back": "отдел; разделение",
+      "pronunciation": "/dɪˈvɪʒən/",
+      "kind": "word",
+      "examples": [
+        "The division of tasks made the work easier."
+      ],
+      "tags": [
+        "work",
+        "nouns"
+      ]
+    },
+    {
+      "id": "memory",
+      "front": "memory",
+      "back": "память; воспоминание",
+      "pronunciation": "/ˈmeməri/",
+      "kind": "word",
+      "examples": [
+        "This song brings back happy memories."
+      ],
+      "tags": [
+        "mind",
+        "nouns"
+      ]
+    },
+    {
+      "id": "memorise",
+      "front": "memorise",
+      "back": "запоминать",
+      "pronunciation": "/ˈmeməraɪz/",
+      "kind": "word",
+      "examples": [
+        "We had to memorise ten new words."
+      ],
+      "tags": [
+        "education",
+        "verbs"
+      ]
+    },
+    {
+      "id": "memorial",
+      "front": "memorial",
+      "back": "мемориал; памятник",
+      "pronunciation": "/məˈmɔːriəl/",
+      "kind": "word",
+      "examples": [
+        "A memorial was built in the town square."
+      ],
+      "tags": [
+        "history",
+        "nouns"
+      ]
+    },
+    {
+      "id": "silent",
+      "front": "silent",
+      "back": "тихий; безмолвный",
+      "pronunciation": "/ˈsaɪlənt/",
+      "kind": "word",
+      "examples": [
+        "The room became completely silent."
+      ],
+      "tags": [
+        "descriptions",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "silence",
+      "front": "silence",
+      "back": "тишина; молчание",
+      "pronunciation": "/ˈsaɪləns/",
+      "kind": "word",
+      "examples": [
+        "A sudden silence filled the room."
+      ],
+      "tags": [
+        "descriptions",
+        "nouns"
+      ]
+    },
+    {
+      "id": "silently",
+      "front": "silently",
+      "back": "тихо; молча",
+      "pronunciation": "/ˈsaɪləntli/",
+      "kind": "word",
+      "examples": [
+        "She silently left the room."
+      ],
+      "tags": [
+        "descriptions",
+        "adverbs"
+      ]
+    },
+    {
+      "id": "simplicity",
+      "front": "simplicity",
+      "back": "простота",
+      "pronunciation": "/sɪmˈplɪsəti/",
+      "kind": "word",
+      "examples": [
+        "I like the simplicity of this design."
+      ],
+      "tags": [
+        "descriptions",
+        "nouns"
+      ]
+    },
+    {
+      "id": "capable-of",
+      "front": "capable of",
+      "back": "способный на что-либо; способный сделать что-либо",
+      "pronunciation": "/ˈkeɪpəbəl əv/",
+      "kind": "word",
+      "examples": [
+        "She is capable of solving difficult problems."
+      ],
+      "tags": [
+        "abilities",
+        "phrases"
+      ]
+    },
+    {
+      "id": "cope-with",
+      "front": "cope with",
+      "back": "справляться с",
+      "pronunciation": "/kəʊp wɪð/",
+      "kind": "word",
+      "examples": [
+        "He is learning to cope with stress."
+      ],
+      "tags": [
+        "feelings",
+        "phrases"
+      ]
+    },
+    {
+      "id": "learn-about",
+      "front": "learn about",
+      "back": "узнавать о чём-либо",
+      "pronunciation": "/lɜːn əˈbaʊt/",
+      "kind": "word",
+      "examples": [
+        "We learned about space at school."
+      ],
+      "tags": [
+        "education",
+        "phrases"
+      ]
+    },
+    {
+      "id": "succeed-in",
+      "front": "succeed in",
+      "back": "добиться успеха в чём-либо",
+      "pronunciation": "/səkˈsiːd ɪn/",
+      "kind": "word",
+      "examples": [
+        "She succeeded in passing the exam."
+      ],
+      "tags": [
+        "achievement",
+        "phrases"
+      ]
+    },
+    {
+      "id": "opinion-about",
+      "front": "opinion about",
+      "back": "мнение о чём-либо",
+      "pronunciation": "/əˈpɪnjən əˈbaʊt/",
+      "kind": "word",
+      "examples": [
+        "What is your opinion about the new rule?"
+      ],
+      "tags": [
+        "opinion",
+        "phrases"
+      ]
+    }
+  ]
+}
